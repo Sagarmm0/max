@@ -1,3 +1,7 @@
 one
 two
 three
+i=10
+a=9
+b=23
+print(a+b)
